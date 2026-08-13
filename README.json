@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "description": "Please feel free to create a pull request to add papers or edit any informations:\n#|| #|:-------- | #|Problem Settings: Using 3-5 images of a novel concept/subject (e.g., a pet named ), can we personalize Large Multimodal Models so that:(1) They retain #their original capabilities (e.g., Describe a dog) while (2) Enabling #tailored their capabilities for the novel concept? (e.g., Describe )|",
+      "items": [],
+      "title": "🌱 Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personalized Asssistant"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personalized Representation Learning / Personalized Image Retrieval"
+    },
+    {
+      "description": "⣶⣶⣶⣶⣶⣖⣒⡄⠀⣶⡖⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠠⡄⠀⠀⠀⠀ ⠙⠛⣿⣿⣿⡟⠛⠃⢀⣿⣿⣆⣦⣴⠂⠤⠀⠀⠀⣠⣤⣴⣆⠠⢄⠀⠀⠀⣤⡤⢤⣤⣤⠤⢄⠀⠀⢻⣿⣦⡇⢀⣤⢤⠀ ⠀⢀⣿⣿⣿⡇⠀⠀⢸⣿⣿⣿⠛⣿⣷⣄⡇⠀⣼⣿⣿⡟⢿⣷⡄⣣⠀⢘⣿⣿⣿⠿⣿⣧⣈⡆⠀⢹⣿⣿⣷⣾⣧⣴⠀ ⠀⢰⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⠙⠛⣻⣧⣾⣿⣿⡷⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⡇⠀ ⠀⢸⣿⣿⣿⠀⠀⠀⢸⣿⣿⡿⠀⣿⣿⣿⠃⠀⣰⣾⣿⡿⣿⣿⣿⣟⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⡏⢇⠀ ⠀⣼⣿⣿⣿⠀⠀⠀⣸⣿⣿⣟⢠⣿⣿⣿⠀⠀⣿⣿⡟⣇⣾⣿⣿⣯⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢼⣿⣿⣿⣿⣷⡈⡀ ⠀⠻⠿⠿⠟⠀⠀⠀⠻⠿⠿⠏⠸⣿⣿⣿⠀⠀⢿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⣿⣿⣿⡟⢻⣿⣧⣇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠉⠉⠀⠀⠀⠉⠉⠁⠀⠉⠉⠉⠀⠀⠘⠙⠋⠁⠈⠋⠛⠉ ⠀⠀⠀⠀⠀⠀⢀⣠⣤⡀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡤⠠⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢹⣿⣄⠱⣠⣿⣧⣴⠀⠀⣠⣤⣤⣀⣀⡀⠀⠀⢀⣤⠤⡀⢀⣠⡤⢄⠀⠈⣿⣿⣦⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣿⣿⣿⡏⠀⣾⣿⣿⣿⣶⣄⡉⡄⠀⣿⣿⣤⣝⢸⣿⣦⣼⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⠏⠀⠐⣿⣿⣿⠉⣿⣿⣷⡇⠀⣽⣿⣿⣯⢸⣿⣿⣿⠀⠀⢹⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⢠⣿⣿⣿⠀⣿⣿⣿⡇⠀⣻⣿⣿⡷⢸⣿⣿⣿⠀⠀⢸⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⢿⣿⣿⣄⣿⣿⣿⠇⠀⢹⣿⣿⣿⣸⣿⣿⣿⠀⠀⢠⣽⣧⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠀⠀⠀⠈⠛⠛⠛⠛⠛⠉⠀⠀⠈⠛⠛⠛⠋⠛⠛⠋⠀⠀⠈⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀\nAnd good luck with your research! 🤗✨",
+      "items": [],
+      "title": "Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:19.842Z",
+    "original_repository": "thaoshibe/awesome-personalized-lmms",
+    "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
+    "enhanced_repository": "enhansome/enhansome-personalized-lmms",
+    "enhanced_repository_description": null,
+    "title": "Awesome Personalized Personal Assistant Models with stars"
+  }
+}
