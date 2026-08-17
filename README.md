@@ -43,10 +43,10 @@ Please feel free to create a pull request to add papers or edit any informations
 
 **Frameworks:**
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,429 | 🐛 5,538 | 🌐 TypeScript | 📅 2026-08-16 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | <a href="https://github.com/openclaw/openclaw/stargazers"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a>
-* [mem0](https://github.com/mem0ai/mem0) ⭐ 63,358 | 🐛 672 | 🌐 Python | 📅 2026-08-15 | Universal memory layer for AI Agents | <a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a>
-* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,056 | 🐛 706 | 🌐 Python | 📅 2026-08-16 | Ultra-lightweight personal AI assistant | <a href="https://github.com/HKUDS/nanobot/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars"></a>
-* [Graphiti](https://github.com/getzep/graphiti) ⭐ 29,967 | 🐛 483 | 🌐 Python | 📅 2026-08-15 | Build Real-Time Knowledge Graphs for AI Agents | <a href="https://github.com/getzep/graphiti/stargazers"><img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars"></a>
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,501 | 🐛 5,595 | 🌐 TypeScript | 📅 2026-08-17 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | <a href="https://github.com/openclaw/openclaw/stargazers"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a>
+* [mem0](https://github.com/mem0ai/mem0) ⭐ 63,425 | 🐛 677 | 🌐 Python | 📅 2026-08-15 | Universal memory layer for AI Agents | <a href="https://github.com/mem0ai/mem0/stargazers"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a>
+* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,088 | 🐛 707 | 🌐 Python | 📅 2026-08-17 | Ultra-lightweight personal AI assistant | <a href="https://github.com/HKUDS/nanobot/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars"></a>
+* [Graphiti](https://github.com/getzep/graphiti) ⭐ 29,992 | 🐛 487 | 🌐 Python | 📅 2026-08-16 | Build Real-Time Knowledge Graphs for AI Agents | <a href="https://github.com/getzep/graphiti/stargazers"><img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars"></a>
 
 ### Papers
 
@@ -66,7 +66,7 @@ Please feel free to create a pull request to add papers or edit any informations
 | [PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents](https://arxiv.org/abs/2606.04780)                                      |     arXiv    | 2026 |        text        |     text    |                                                                                                                                                  |
 | [Personal Visual Memory from Explicit and Implicit Evidence](https://arxiv.org/abs/2605.28806)                                                           |     arXiv    | 2026 |     image, text    |     text    |                                                [Page](https://viettmab.github.io/visualmem-page/)                                                |
 | [PersonalHomeBench: Evaluating Agents in Personalized Smart Homes](https://arxiv.org/abs/2604.16813)                                                     |     arXiv    | 2026 |     image, text    |     text    |                                                                                                                                                  |
-| [OmniMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)                                           |     arXiv    | 2026 |     image, text    |     text    |                           [Code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,708 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-24                          |
+| [OmniMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)                                           |     arXiv    | 2026 |     image, text    |     text    |                           [Code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,704 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-24                          |
 | [PEARL: Personalized Streaming Video Understanding Model](https://arxiv.org/abs/2603.20422)                                                              |     arXiv    | 2026 |     video, text    |     text    |                            [Code](https://github.com/Yuanhong-Zheng/PEARL) ⭐ 56 \| 🐛 0 \| 🌐 Python \| 📅 2026-03-24                            |
 | [According to Me: Long-Term Personalized Referential Memory QA](https://arxiv.org/abs/2603.01990)                                                        |     arXiv    | 2026 |     image, text    |     text    |                            [Code](https://github.com/JingbiaoMei/ATM-Bench) ⭐ 60 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-13                           |
 | [ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context](https://arxiv.org/abs/2603.01357)                      |     arXiv    | 2026 |        text        |     text    |                                                                                                                                                  |
@@ -153,4 +153,4 @@ Please feel free to create a pull request to add papers or edit any informations
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
