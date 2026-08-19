@@ -2,32 +2,80 @@
   "items": [
     {
       "description": "Please feel free to create a pull request to add papers or edit any informations:\n#|| #|:-------- | #|Problem Settings: Using 3-5 images of a novel concept/subject (e.g., a pet named ), can we personalize Large Multimodal Models so that:(1) They retain #their original capabilities (e.g., Describe a dog) while (2) Enabling #tailored their capabilities for the novel concept? (e.g., Describe )|",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw",
+              "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:41:44Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mem0",
+              "description": "Universal memory layer for AI Agents |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:51:45Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nanobot",
+              "description": "Ultra-lightweight personal AI assistant |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147094660,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:04:11Z",
+                "owner": "HKUDS",
+                "repo": "nanobot",
+                "stars": 47165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphiti",
+              "description": "Build Real-Time Knowledge Graphs for AI Agents |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840056306,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:24:04Z",
+                "owner": "getzep",
+                "repo": "graphiti",
+                "stars": 30082
+              }
+            }
+          ],
+          "description": "Blogs:\nFrameworks:",
+          "node_type": "group",
+          "title": "Blogs + Frameworks"
+        }
+      ],
       "title": "🌱 Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Personalized Asssistant"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Personalized Representation Learning / Personalized Image Retrieval"
-    },
-    {
-      "description": "⣶⣶⣶⣶⣶⣖⣒⡄⠀⣶⡖⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠠⡄⠀⠀⠀⠀ ⠙⠛⣿⣿⣿⡟⠛⠃⢀⣿⣿⣆⣦⣴⠂⠤⠀⠀⠀⣠⣤⣴⣆⠠⢄⠀⠀⠀⣤⡤⢤⣤⣤⠤⢄⠀⠀⢻⣿⣦⡇⢀⣤⢤⠀ ⠀⢀⣿⣿⣿⡇⠀⠀⢸⣿⣿⣿⠛⣿⣷⣄⡇⠀⣼⣿⣿⡟⢿⣷⡄⣣⠀⢘⣿⣿⣿⠿⣿⣧⣈⡆⠀⢹⣿⣿⣷⣾⣧⣴⠀ ⠀⢰⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⠙⠛⣻⣧⣾⣿⣿⡷⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⡇⠀ ⠀⢸⣿⣿⣿⠀⠀⠀⢸⣿⣿⡿⠀⣿⣿⣿⠃⠀⣰⣾⣿⡿⣿⣿⣿⣟⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⡏⢇⠀ ⠀⣼⣿⣿⣿⠀⠀⠀⣸⣿⣿⣟⢠⣿⣿⣿⠀⠀⣿⣿⡟⣇⣾⣿⣿⣯⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢼⣿⣿⣿⣿⣷⡈⡀ ⠀⠻⠿⠿⠟⠀⠀⠀⠻⠿⠿⠏⠸⣿⣿⣿⠀⠀⢿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⣿⣿⣿⡟⢻⣿⣧⣇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠉⠉⠀⠀⠀⠉⠉⠁⠀⠉⠉⠉⠀⠀⠘⠙⠋⠁⠈⠋⠛⠉ ⠀⠀⠀⠀⠀⠀⢀⣠⣤⡀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡤⠠⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢹⣿⣄⠱⣠⣿⣧⣴⠀⠀⣠⣤⣤⣀⣀⡀⠀⠀⢀⣤⠤⡀⢀⣠⡤⢄⠀⠈⣿⣿⣦⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣿⣿⣿⡏⠀⣾⣿⣿⣿⣶⣄⡉⡄⠀⣿⣿⣤⣝⢸⣿⣦⣼⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⠏⠀⠐⣿⣿⣿⠉⣿⣿⣷⡇⠀⣽⣿⣿⣯⢸⣿⣿⣿⠀⠀⢹⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⢠⣿⣿⣿⠀⣿⣿⣿⡇⠀⣻⣿⣿⡷⢸⣿⣿⣿⠀⠀⢸⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⢿⣿⣿⣄⣿⣿⣿⠇⠀⢹⣿⣿⣿⣸⣿⣿⣿⠀⠀⢠⣽⣧⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠀⠀⠀⠈⠛⠛⠛⠛⠛⠉⠀⠀⠈⠛⠛⠛⠋⠛⠛⠋⠀⠀⠈⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀\nAnd good luck with your research! 🤗✨",
-      "items": [],
-      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:42:22.688Z",
+    "last_updated": "2026-08-19T09:42:27.989Z",
     "original_repository": "thaoshibe/awesome-personalized-lmms",
     "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
     "enhanced_repository": "enhansome/enhansome-personalized-lmms",
