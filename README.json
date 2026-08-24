@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T09:36:10Z",
+                "last_commit": "2026-08-24T09:54:48Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387194
+                "stars": 387288
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:19:56Z",
+                "last_commit": "2026-08-24T08:33:54Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63856
+                "stars": 63928
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1147094660,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:15:27Z",
+                "last_commit": "2026-08-24T08:59:40Z",
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47292
+                "stars": 47341
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T01:52:20Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30208
+                "stars": 30250
               }
             }
           ],
@@ -75,7 +75,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:36:25.917Z",
+    "last_updated": "2026-08-24T09:57:27.400Z",
     "original_repository": "thaoshibe/awesome-personalized-lmms",
     "original_repository_id": 874883768,
     "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
