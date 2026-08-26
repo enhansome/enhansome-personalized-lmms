@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:44:45Z",
+                "last_commit": "2026-08-26T09:51:20Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387537
+                "stars": 387668
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:06:40Z",
+                "last_commit": "2026-08-25T17:24:13Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63998
+                "stars": 64075
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1147094660,
                 "language": "Python",
-                "last_commit": "2026-08-25T09:11:40Z",
+                "last_commit": "2026-08-26T09:51:48Z",
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47370
+                "stars": 47413
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T01:52:20Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30283
+                "stars": 30320
               }
             }
           ],
@@ -116,7 +116,7 @@
                     "last_commit": "2026-07-24T07:40:38Z",
                     "owner": "aiming-lab",
                     "repo": "SimpleMem",
-                    "stars": 3712
+                    "stars": 3719
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-13T13:14:05Z",
                     "owner": "JingbiaoMei",
                     "repo": "ATM-Bench",
-                    "stars": 63
+                    "stars": 64
                   }
                 },
                 {
@@ -251,7 +251,7 @@
                     "last_commit": "2026-06-08T03:58:55Z",
                     "owner": "Hoar012",
                     "repo": "RAP-MLLM",
-                    "stars": 87
+                    "stars": 86
                   }
                 },
                 {
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:45:15.390Z",
+    "last_updated": "2026-08-26T09:52:02.787Z",
     "original_repository": "thaoshibe/awesome-personalized-lmms",
     "original_repository_id": 874883768,
     "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
