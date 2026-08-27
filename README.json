@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T09:51:20Z",
+                "last_commit": "2026-08-27T11:56:22Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387668
+                "stars": 387782
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:24:13Z",
+                "last_commit": "2026-08-27T09:50:39Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64075
+                "stars": 64171
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 1147094660,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:51:48Z",
+                "last_commit": "2026-08-27T09:53:29Z",
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47413
+                "stars": 47455
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 840056306,
                 "language": "Python",
-                "last_commit": "2026-08-21T01:52:20Z",
+                "last_commit": "2026-08-26T18:28:50Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30320
+                "stars": 30339
               }
             }
           ],
@@ -116,7 +116,7 @@
                     "last_commit": "2026-07-24T07:40:38Z",
                     "owner": "aiming-lab",
                     "repo": "SimpleMem",
-                    "stars": 3719
+                    "stars": 3722
                   }
                 },
                 {
@@ -478,9 +478,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:52:02.787Z",
-    "original_repository": "thaoshibe/awesome-personalized-lmms",
-    "original_repository_id": 874883768,
+    "last_updated": "2026-08-27T11:59:12.020Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 874883768,
+      "language": null,
+      "last_commit": "2026-08-10T14:44:56Z",
+      "owner": "thaoshibe",
+      "repo": "awesome-personalized-lmms",
+      "stars": 59
+    },
     "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
     "enhanced_repository": "enhansome/enhansome-personalized-lmms",
     "enhanced_repository_description": null,
