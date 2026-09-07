@@ -17,11 +17,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T12:49:16Z",
-                "open_issues": 6238,
+                "last_commit": "2026-09-07T14:58:15Z",
+                "open_issues": 6303,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 389010,
+                "stars": 389112,
                 "topics": [
                   "ai",
                   "assistant",
@@ -47,10 +47,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T16:32:10Z",
-                "open_issues": 731,
+                "open_issues": 732,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64773,
+                "stars": 64844,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -82,11 +82,11 @@
                 "id": 1147094660,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T11:48:16Z",
-                "open_issues": 770,
+                "last_commit": "2026-09-07T10:28:36Z",
+                "open_issues": 771,
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47744,
+                "stars": 47843,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -125,10 +125,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T12:29:05Z",
-                "open_issues": 491,
+                "open_issues": 490,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30628,
+                "stars": 30667,
                 "topics": [
                   "agents",
                   "graph",
@@ -205,7 +205,7 @@
                     "open_issues": 8,
                     "owner": "aiming-lab",
                     "repo": "SimpleMem",
-                    "stars": 3752,
+                    "stars": 3750,
                     "topics": [
                       "agent",
                       "audio",
@@ -243,7 +243,7 @@
                     "open_issues": 0,
                     "owner": "Yuanhong-Zheng",
                     "repo": "PEARL",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -352,7 +352,7 @@
                     "open_issues": 0,
                     "owner": "Yuanhong-Zheng",
                     "repo": "PEARL",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -584,7 +584,7 @@
                     "open_issues": 3,
                     "owner": "LaVieEnRose365",
                     "repo": "PhotoBench",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:49:35.293Z",
+    "last_updated": "2026-09-07T15:00:25.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
