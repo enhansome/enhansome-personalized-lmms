@@ -45,10 +45,10 @@ Please feel free to create a pull request to add papers or edit any informations
 
 **Frameworks:**
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 389,490 | 🐛 6,942 | 🌐 TypeScript | 📅 2026-09-12 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | [<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars">](https://github.com/openclaw/openclaw/stargazers) ⭐ 389,490 | 🐛 6,942 | 🌐 TypeScript | 📅 2026-09-12
-* [mem0](https://github.com/mem0ai/mem0) ⭐ 65,168 | 🐛 739 | 🌐 Python | 📅 2026-09-11 | Universal memory layer for AI Agents | [<img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars">](https://github.com/mem0ai/mem0/stargazers) ⭐ 65,168 | 🐛 739 | 🌐 Python | 📅 2026-09-11
-* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,052 | 🐛 770 | 🌐 Python | 📅 2026-09-12 | Ultra-lightweight personal AI assistant | [<img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars">](https://github.com/HKUDS/nanobot/stargazers) ⭐ 48,052 | 🐛 770 | 🌐 Python | 📅 2026-09-12
-* [Graphiti](https://github.com/getzep/graphiti) ⭐ 30,828 | 🐛 505 | 🌐 Python | 📅 2026-09-11 | Build Real-Time Knowledge Graphs for AI Agents | [<img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars">](https://github.com/getzep/graphiti/stargazers) ⭐ 30,828 | 🐛 505 | 🌐 Python | 📅 2026-09-11
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 389,578 | 🐛 7,120 | 🌐 TypeScript | 📅 2026-09-13 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | [<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars">](https://github.com/openclaw/openclaw/stargazers) ⭐ 389,578 | 🐛 7,120 | 🌐 TypeScript | 📅 2026-09-13
+* [mem0](https://github.com/mem0ai/mem0) ⭐ 65,222 | 🐛 748 | 🌐 Python | 📅 2026-09-11 | Universal memory layer for AI Agents | [<img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars">](https://github.com/mem0ai/mem0/stargazers) ⭐ 65,222 | 🐛 748 | 🌐 Python | 📅 2026-09-11
+* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,079 | 🐛 768 | 🌐 Python | 📅 2026-09-13 | Ultra-lightweight personal AI assistant | [<img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars">](https://github.com/HKUDS/nanobot/stargazers) ⭐ 48,079 | 🐛 768 | 🌐 Python | 📅 2026-09-13
+* [Graphiti](https://github.com/getzep/graphiti) ⭐ 30,846 | 🐛 507 | 🌐 Python | 📅 2026-09-11 | Build Real-Time Knowledge Graphs for AI Agents | [<img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars">](https://github.com/getzep/graphiti/stargazers) ⭐ 30,846 | 🐛 507 | 🌐 Python | 📅 2026-09-11
 
 ### Papers
 
@@ -118,7 +118,7 @@ Please feel free to create a pull request to add papers or edit any informations
 
 | Title                                                                                                                                                              | Venue | Year |                                             Link/ Code                                             |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :--: | :------------------------------------------------------------------------------------------------: |
-| [PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493)                                          | arXiv | 2026 |   [Code](https://github.com/LaVieEnRose365/PhotoBench) ⭐ 15 \| 🐛 4 \| 🌐 Python \| 📅 2026-05-17  |
+| [PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval](https://arxiv.org/abs/2603.01493)                                          | arXiv | 2026 |   [Code](https://github.com/LaVieEnRose365/PhotoBench) ⭐ 16 \| 🐛 4 \| 🌐 Python \| 📅 2026-05-17  |
 | [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809)                          | arXiv | 2026 |   [Code](https://github.com/RUC-NLPIR/DeepImageSearch) ⭐ 89 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-02  |
 | [Personalized Representation from Personalized Generation](https://personalized-rep.github.io/)                                                                    |  ICLR | 2025 | [Code](https://github.com/ssundaram21/personalized-rep) ⭐ 66 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-18 |
 | [“This is my unicorn, Fluffy”: Personalizing frozen vision-language representations](https://github.com/NVlabs/PALAVRA) ⭐ 54 \| 🐛 2 \| 🌐 Python \| 📅 2022-07-31 |  ECCV | 2024 |        [Code](https://github.com/NVlabs/PALAVRA) ⭐ 54 \| 🐛 2 \| 🌐 Python \| 📅 2022-07-31        |
@@ -155,4 +155,4 @@ Please feel free to create a pull request to add papers or edit any informations
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

@@ -17,11 +17,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T12:48:25Z",
-                "open_issues": 6942,
+                "last_commit": "2026-09-13T13:45:40Z",
+                "open_issues": 7120,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 389490,
+                "stars": 389578,
                 "topics": [
                   "ai",
                   "assistant",
@@ -47,10 +47,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T15:36:33Z",
-                "open_issues": 739,
+                "open_issues": 748,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 65168,
+                "stars": 65222,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -82,11 +82,11 @@
                 "id": 1147094660,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-12T10:33:40Z",
-                "open_issues": 770,
+                "last_commit": "2026-09-13T07:15:17Z",
+                "open_issues": 768,
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 48052,
+                "stars": 48079,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -125,10 +125,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T20:16:31Z",
-                "open_issues": 505,
+                "open_issues": 507,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30828,
+                "stars": 30846,
                 "topics": [
                   "agents",
                   "graph",
@@ -584,7 +584,7 @@
                     "open_issues": 4,
                     "owner": "LaVieEnRose365",
                     "repo": "PhotoBench",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:48:37.949Z",
+    "last_updated": "2026-09-13T13:46:17.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
