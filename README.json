@@ -17,11 +17,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T13:31:16Z",
-                "open_issues": 7816,
+                "last_commit": "2026-09-19T12:59:15Z",
+                "open_issues": 8023,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 390024,
+                "stars": 390074,
                 "topics": [
                   "ai",
                   "assistant",
@@ -46,11 +46,11 @@
                 "id": 656099147,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T12:58:30Z",
-                "open_issues": 753,
+                "last_commit": "2026-09-19T01:14:39Z",
+                "open_issues": 757,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 65575,
+                "stars": 65629,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -82,11 +82,11 @@
                 "id": 1147094660,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:07:04Z",
-                "open_issues": 787,
+                "last_commit": "2026-09-19T09:59:18Z",
+                "open_issues": 781,
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 48314,
+                "stars": 48351,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -124,11 +124,11 @@
                 "id": 840056306,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T08:18:46Z",
-                "open_issues": 512,
+                "last_commit": "2026-09-19T08:28:21Z",
+                "open_issues": 516,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30983,
+                "stars": 31003,
                 "topics": [
                   "agents",
                   "graph",
@@ -159,8 +159,8 @@
                     "id": 1242379387,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T18:46:51Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-18T18:46:38Z",
+                    "open_issues": 3,
                     "owner": "ljang0",
                     "repo": "MyPCBench",
                     "stars": 8,
@@ -196,7 +196,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+                    "description": "[ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
                     "homepage": null,
                     "id": 1126449798,
                     "language": "Python",
@@ -243,7 +243,7 @@
                     "open_issues": 0,
                     "owner": "Yuanhong-Zheng",
                     "repo": "PEARL",
-                    "stars": 57,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -352,7 +352,7 @@
                     "open_issues": 0,
                     "owner": "Yuanhong-Zheng",
                     "repo": "PEARL",
-                    "stars": 57,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:33:04.226Z",
+    "last_updated": "2026-09-19T13:03:22.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
