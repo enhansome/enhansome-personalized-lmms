@@ -17,11 +17,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T12:59:15Z",
-                "open_issues": 8023,
+                "last_commit": "2026-09-20T13:31:26Z",
+                "open_issues": 8060,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 390074,
+                "stars": 390132,
                 "topics": [
                   "ai",
                   "assistant",
@@ -47,10 +47,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T01:14:39Z",
-                "open_issues": 757,
+                "open_issues": 759,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 65629,
+                "stars": 65700,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -82,11 +82,11 @@
                 "id": 1147094660,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:59:18Z",
-                "open_issues": 781,
+                "last_commit": "2026-09-20T08:48:13Z",
+                "open_issues": 785,
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 48351,
+                "stars": 48397,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -124,11 +124,11 @@
                 "id": 840056306,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T08:28:21Z",
+                "last_commit": "2026-09-19T17:23:11Z",
                 "open_issues": 516,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 31003,
+                "stars": 31031,
                 "topics": [
                   "agents",
                   "graph",
@@ -322,7 +322,7 @@
                     "open_issues": 0,
                     "owner": "MiG-NJU",
                     "repo": "PersonaVLM",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": [
                       "agent",
                       "large-language-model",
@@ -605,7 +605,7 @@
                     "open_issues": 0,
                     "owner": "RUC-NLPIR",
                     "repo": "DeepImageSearch",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:52.379Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:03:22.887Z",
+    "last_updated": "2026-09-20T13:33:06.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
