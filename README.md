@@ -45,10 +45,10 @@ Please feel free to create a pull request to add papers or edit any informations
 
 **Frameworks:**
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,195 | 🐛 9,163 | 🌐 TypeScript | 📅 2026-10-03 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | [<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars">](https://github.com/openclaw/openclaw/stargazers) ⭐ 391,195 | 🐛 9,163 | 🌐 TypeScript | 📅 2026-10-03
-* [mem0](https://github.com/mem0ai/mem0) ⭐ 66,496 | 🐛 781 | 🌐 Python | 📅 2026-10-01 | Universal memory layer for AI Agents | [<img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars">](https://github.com/mem0ai/mem0/stargazers) ⭐ 66,496 | 🐛 781 | 🌐 Python | 📅 2026-10-01
-* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,749 | 🐛 809 | 🌐 Python | 📅 2026-10-03 | Ultra-lightweight personal AI assistant | [<img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars">](https://github.com/HKUDS/nanobot/stargazers) ⭐ 48,749 | 🐛 809 | 🌐 Python | 📅 2026-10-03
-* [Graphiti](https://github.com/getzep/graphiti) ⭐ 31,392 | 🐛 444 | 🌐 Python | 📅 2026-10-02 | Build Real-Time Knowledge Graphs for AI Agents | [<img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars">](https://github.com/getzep/graphiti/stargazers) ⭐ 31,392 | 🐛 444 | 🌐 Python | 📅 2026-10-02
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,227 | 🐛 9,198 | 🌐 TypeScript | 📅 2026-10-03 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | [<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars">](https://github.com/openclaw/openclaw/stargazers) ⭐ 391,227 | 🐛 9,198 | 🌐 TypeScript | 📅 2026-10-03
+* [mem0](https://github.com/mem0ai/mem0) ⭐ 66,522 | 🐛 781 | 🌐 Python | 📅 2026-10-01 | Universal memory layer for AI Agents | [<img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars">](https://github.com/mem0ai/mem0/stargazers) ⭐ 66,522 | 🐛 781 | 🌐 Python | 📅 2026-10-01
+* [nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,756 | 🐛 800 | 🌐 Python | 📅 2026-10-03 | Ultra-lightweight personal AI assistant | [<img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=social" alt="GitHub stars">](https://github.com/HKUDS/nanobot/stargazers) ⭐ 48,756 | 🐛 800 | 🌐 Python | 📅 2026-10-03
+* [Graphiti](https://github.com/getzep/graphiti) ⭐ 31,406 | 🐛 444 | 🌐 Python | 📅 2026-10-02 | Build Real-Time Knowledge Graphs for AI Agents | [<img src="https://img.shields.io/github/stars/getzep/graphiti?style=social" alt="GitHub stars">](https://github.com/getzep/graphiti/stargazers) ⭐ 31,406 | 🐛 444 | 🌐 Python | 📅 2026-10-02
 
 ### Papers
 
