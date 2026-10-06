@@ -1,673 +1,831 @@
 {
   "items": [
     {
-      "description": "Please feel free to create a pull request to add papers or edit any informations:\n#|| #|:-------- | #|Problem Settings: Using 3-5 images of a novel concept/subject (e.g., a pet named ), can we personalize Large Multimodal Models so that:(1) They retain #their original capabilities (e.g., Describe a dog) while (2) Enabling #tailored their capabilities for the novel concept? (e.g., Describe )|",
+      "description": "Products, open-source frameworks, developer tools, and industry updates for building Personal AI~ 🛠️",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mem0",
+          "description": "Framework mem0 Universal memory layer for AI agents. Code · Stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+            "homepage": "https://mem0.ai",
+            "id": 656099147,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T05:29:57Z",
+            "open_issues": 789,
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 66650,
+            "topics": [
+              "agentic-memory",
+              "agentic-memory-system",
+              "agents",
+              "ai",
+              "ai-agents",
+              "chatgpt",
+              "genai",
+              "llm",
+              "long-term-memory",
+              "memory",
+              "memory-management",
+              "python",
+              "rag",
+              "state-management"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Graphiti",
+          "description": "Framework Zep Real-time temporal knowledge graphs for agent memory. Code · Stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build Real-Time Knowledge Graphs for AI Agents",
+            "homepage": "https://help.getzep.com/graphiti",
+            "id": 840056306,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-05T19:15:08Z",
+            "open_issues": 454,
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 31476,
+            "topics": [
+              "agents",
+              "graph",
+              "llms",
+              "rag"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Letta",
+          "description": "Framework Letta Stateful agents with persistent memory that can learn over time. Code · Docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+            "homepage": "https://docs.letta.com/",
+            "id": 703411624,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-10T17:59:08Z",
+            "open_issues": 0,
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 25043,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "llm",
+              "llm-agent"
+            ]
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LangMem",
+          "description": "Developer tool LangChain Tools for extracting, managing, and updating long-term agent memories. Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://langchain-ai.github.io/langmem/",
+            "id": 920242883,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-02T19:35:27Z",
+            "open_issues": 67,
+            "owner": "langchain-ai",
+            "repo": "langmem",
+            "stars": 1694,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nanobot",
+          "description": "Open-source product HKUDS Ultra-lightweight personal AI assistant. Code · Stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+            "homepage": "https://nanobot.wiki",
+            "id": 1147094660,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-06T06:36:44Z",
+            "open_issues": 833,
+            "owner": "HKUDS",
+            "repo": "nanobot",
+            "stars": 48815,
+            "topics": [
+              "agent-framework",
+              "ai-agent",
+              "ai-agents",
+              "chatbot",
+              "chatops",
+              "discord-bot",
+              "llm-agents",
+              "llms",
+              "local-llm",
+              "mcp",
+              "model-context-protocol",
+              "multi-agent",
+              "openai-compatible",
+              "openclaw",
+              "personal-ai-assistant",
+              "python",
+              "self-hosted",
+              "telegram-bot-ai-assistant",
+              "webui",
+              "workflow-automation"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClaw",
+          "description": "Open-source product OpenClaw Personal AI assistant for different operating systems and platforms. Code · Stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
+            "id": 1103012935,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-06T10:16:17Z",
+            "open_issues": 9431,
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 391483,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        }
+      ],
+      "title": "🏭 Industrial Tools & Products"
+    },
+    {
+      "description": null,
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "OpenClaw",
-              "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |",
+              "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
+              "description": "arXiv 2026 Personal context, tool use Image, text Page · Code",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-                "homepage": "https://openclaw.ai",
-                "id": 1103012935,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-05T18:17:38Z",
-                "open_issues": 9372,
-                "owner": "openclaw",
-                "repo": "openclaw",
-                "stars": 391432,
-                "topics": [
-                  "ai",
-                  "assistant",
-                  "crustacean",
-                  "molty",
-                  "openclaw",
-                  "own-your-data",
-                  "personal"
-                ]
-              },
-              "first_seen": "2026-08-28T20:48:52.379Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mem0",
-              "description": "Universal memory layer for AI Agents |",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-                "homepage": "https://mem0.ai",
-                "id": 656099147,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-05T15:55:56Z",
-                "open_issues": 786,
-                "owner": "mem0ai",
-                "repo": "mem0",
-                "stars": 66601,
-                "topics": [
-                  "agentic-memory",
-                  "agentic-memory-system",
-                  "agents",
-                  "ai",
-                  "ai-agents",
-                  "chatgpt",
-                  "genai",
-                  "llm",
-                  "long-term-memory",
-                  "memory",
-                  "memory-management",
-                  "python",
-                  "rag",
-                  "state-management"
-                ]
-              },
-              "first_seen": "2026-08-28T20:48:52.379Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nanobot",
-              "description": "Ultra-lightweight personal AI assistant |",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-                "homepage": "https://nanobot.wiki",
-                "id": 1147094660,
+                "description": null,
+                "homepage": null,
+                "id": 1242379387,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:16:04Z",
-                "open_issues": 829,
-                "owner": "HKUDS",
-                "repo": "nanobot",
-                "stars": 48799,
-                "topics": [
-                  "agent-framework",
-                  "ai-agent",
-                  "ai-agents",
-                  "chatbot",
-                  "chatops",
-                  "discord-bot",
-                  "llm-agents",
-                  "llms",
-                  "local-llm",
-                  "mcp",
-                  "model-context-protocol",
-                  "multi-agent",
-                  "openai-compatible",
-                  "openclaw",
-                  "personal-ai-assistant",
-                  "python",
-                  "self-hosted",
-                  "telegram-bot-ai-assistant",
-                  "webui",
-                  "workflow-automation"
-                ]
+                "last_commit": "2026-10-02T18:46:02Z",
+                "open_issues": 3,
+                "owner": "ljang0",
+                "repo": "MyPCBench",
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:52.379Z"
             },
             {
               "node_type": "item",
-              "title": "Graphiti",
-              "description": "Build Real-Time Knowledge Graphs for AI Agents |",
+              "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+              "description": "arXiv 2026 Personal context, tool use Image, text Page · Code",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Build Real-Time Knowledge Graphs for AI Agents",
-                "homepage": "https://help.getzep.com/graphiti",
-                "id": 840056306,
-                "language": "Python",
+                "description": null,
+                "homepage": null,
+                "id": 1263251973,
+                "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:55:56Z",
-                "open_issues": 451,
-                "owner": "getzep",
-                "repo": "graphiti",
-                "stars": 31451,
-                "topics": [
-                  "agents",
-                  "graph",
-                  "llms",
-                  "rag"
-                ]
+                "last_commit": "2026-09-30T04:42:40Z",
+                "open_issues": 1,
+                "owner": "ljang0",
+                "repo": "iOSWorld",
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:52.379Z"
-            }
-          ],
-          "description": "Blogs:\nFrameworks:",
-          "node_type": "group",
-          "title": "Blogs + Frameworks"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
-                  "description": "arXiv 2026 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1242379387,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-02T18:46:02Z",
-                    "open_issues": 3,
-                    "owner": "ljang0",
-                    "repo": "MyPCBench",
-                    "stars": 9,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
-                  "description": "arXiv 2026 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1263251973,
-                    "language": "Swift",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T04:42:40Z",
-                    "open_issues": 1,
-                    "owner": "ljang0",
-                    "repo": "iOSWorld",
-                    "stars": 19,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "OmniMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
-                  "description": "arXiv 2026 image, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
-                    "homepage": null,
-                    "id": 1126449798,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-07-24T07:40:38Z",
-                    "open_issues": 9,
-                    "owner": "aiming-lab",
-                    "repo": "SimpleMem",
-                    "stars": 3821,
-                    "topics": [
-                      "agent",
-                      "audio",
-                      "compression",
-                      "knowledge-graph",
-                      "lifelong-memory",
-                      "llm",
-                      "mcp",
-                      "memory",
-                      "multimodal",
-                      "python",
-                      "rag",
-                      "retrieval",
-                      "semantic-search",
-                      "simplemem",
-                      "video",
-                      "vision"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PEARL: Personalized Streaming Video Understanding Model",
-                  "description": "arXiv 2026 video, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official code for PEARL: Personalized Streaming Video Understanding Model",
-                    "homepage": null,
-                    "id": 1182350937,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-03-24T13:05:18Z",
-                    "open_issues": 0,
-                    "owner": "Yuanhong-Zheng",
-                    "repo": "PEARL",
-                    "stars": 56,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "According to Me: Long-Term Personalized Referential Memory QA",
-                  "description": "arXiv 2026 image, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "ATM-Bench: A benchmark for long-term personalized memory QA spanning ~4 years of multimodal data (images, videos, emails). Features referential queries, evidence-grounded answering, and multi-source reasoning. Paper: \"According to Me: Long-Term Personalized Referential Memory QA\"",
-                    "homepage": null,
-                    "id": 1170286075,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-08-13T13:14:05Z",
-                    "open_issues": 1,
-                    "owner": "JingbiaoMei",
-                    "repo": "ATM-Bench",
-                    "stars": 68,
-                    "topics": [
-                      "agentic-memory",
-                      "ai-agent",
-                      "ai-agents",
-                      "benchmark",
-                      "long-term-memory",
-                      "memory",
-                      "memory-agent",
-                      "memory-management",
-                      "personal-ai",
-                      "personal-ai-assistant",
-                      "personal-assistant",
-                      "personalized-ai",
-                      "question-answering",
-                      "rag",
-                      "retrieval-augmented-generation"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant",
-                  "description": "KDD 2025 image, text image, text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[KDD 2026] TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant",
-                    "homepage": null,
-                    "id": 1122684593,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-05-30T15:12:03Z",
-                    "open_issues": 0,
-                    "owner": "ronpay",
-                    "repo": "TAME",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
-                  "description": "CVPR 2026 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2026 Highlight] PersonaVLM: Long-Term Personalized Multimodal LLMs",
-                    "homepage": "https://clare-nie.github.io/Awesome-Personalization-in-MLLMs/",
-                    "id": 1182304788,
-                    "language": "Jupyter Notebook",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-04-16T01:58:13Z",
-                    "open_issues": 0,
-                    "owner": "MiG-NJU",
-                    "repo": "PersonaVLM",
-                    "stars": 125,
-                    "topics": [
-                      "agent",
-                      "large-language-model",
-                      "long-term",
-                      "memory",
-                      "mllm",
-                      "personalization",
-                      "personavlm",
-                      "qwen2-5"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PEARL: Personalized Streaming Video Understanding Model",
-                  "description": "arXiv 2026 video, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official code for PEARL: Personalized Streaming Video Understanding Model",
-                    "homepage": null,
-                    "id": 1182350937,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-03-24T13:05:18Z",
-                    "open_issues": 0,
-                    "owner": "Yuanhong-Zheng",
-                    "repo": "PEARL",
-                    "stars": 56,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Contextualized Visual Personalization in Vision-Language Models",
-                  "description": "ICML 2026 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICML 2026] We introduce CoViP, a unified framework for contextualized visual personalization in VLMs, featuring a novel personalized image captioning benchmark, an RL-based post-training scheme, and diagnostic downstream personalization tasks.",
-                    "homepage": null,
-                    "id": 1143935491,
-                    "language": "Jupyter Notebook",
-                    "license": null,
-                    "last_commit": "2026-09-11T01:34:01Z",
-                    "open_issues": 1,
-                    "owner": "oyt9306",
-                    "repo": "CoViP",
-                    "stars": 10,
-                    "topics": [
-                      "multimodal-learning",
-                      "personalization",
-                      "post-training",
-                      "reinforcement-learning"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models",
-                  "description": "NeurIPS 2025 image, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2025] We propose a first RL-based personalized image captioning framework with well-defined verifiable rewards.",
-                    "homepage": null,
-                    "id": 1006802430,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-04-01T06:31:31Z",
-                    "open_issues": 0,
-                    "owner": "oyt9306",
-                    "repo": "RePIC",
-                    "stars": 12,
-                    "topics": [
-                      "image-captioning",
-                      "multi-concept",
-                      "multimodal-large-language-models",
-                      "personalization"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "MC-LLaVA: Multi-Concept Personalized Vision-Language Model",
-                  "description": "arXiv 2024 image, text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official implementation of MC-LLaVA.",
-                    "homepage": null,
-                    "id": 890218381,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-03-17T11:46:19Z",
-                    "open_issues": 1,
-                    "owner": "arctanxarc",
-                    "repo": "MC-LLaVA",
-                    "stars": 141,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Retrieval-Augmented Personalization for Multimodal Large Language Models",
-                  "description": "CVPR 2025 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2025] RAP: Retrieval-Augmented Personalization",
-                    "homepage": "https://hoar012.github.io/RAP-Project/",
-                    "id": 816655889,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-06-08T03:58:55Z",
-                    "open_issues": 1,
-                    "owner": "Hoar012",
-                    "repo": "RAP-MLLM",
-                    "stars": 86,
-                    "topics": [
-                      "chatbot",
-                      "multimodal-large-language-models",
-                      "multimodal-learning",
-                      "personalization",
-                      "retrieval-augmented-generation"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "MyVLM: Personalizing VLMs for user-specific queries",
-                  "description": "ECCV 2024 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official Implementation for \"MyVLM: Personalizing VLMs for User-Specific Queries\" (ECCV 2024)",
-                    "homepage": "https://snap-research.github.io/MyVLM/",
-                    "id": 775148130,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-07-05T08:06:09Z",
-                    "open_issues": 6,
-                    "owner": "snap-research",
-                    "repo": "MyVLM",
-                    "stars": 188,
-                    "topics": [
-                      "personalization",
-                      "vision-language-models"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Yo'LLaVA: Your Personalized Language and Vision Assistant",
-                  "description": "NeurIPS 2024 image, text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🌋👵🏻 Yo'LLaVA: Your Personalized Language and Vision Assistant (NeurIPS 2024)",
-                    "homepage": "https://thaoshibe.github.io/YoLLaVA/",
-                    "id": 814808506,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-03-26T19:43:26Z",
-                    "open_issues": 5,
-                    "owner": "WisconsinAIVision",
-                    "repo": "YoLLaVA",
-                    "stars": 125,
-                    "topics": [
-                      "llava",
-                      "llm",
-                      "llms",
-                      "lmm",
-                      "lmms",
-                      "multi-modal-models",
-                      "neurips",
-                      "neurips2024",
-                      "personalization",
-                      "personalized"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "LaMP: When Large Language Models Meet Personalization",
-                  "description": "ACL 2024 text text Page, Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Codes for papers on Large Language Models Personalization (LaMP)",
-                    "homepage": "https://lamp-benchmark.github.io/",
-                    "id": 631068922,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-02-18T20:31:57Z",
-                    "open_issues": 11,
-                    "owner": "LaMP-Benchmark",
-                    "repo": "LaMP",
-                    "stars": 209,
-                    "topics": [
-                      "deep-learning",
-                      "information-retrieval",
-                      "machine-learning",
-                      "natural-language-processing",
-                      "nlp"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge",
-                  "description": "AAAI 2022 text text Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge",
-                    "homepage": null,
-                    "id": 457267962,
-                    "language": null,
-                    "license": "NOASSERTION",
-                    "last_commit": "2022-03-22T06:00:14Z",
-                    "open_issues": 0,
-                    "owner": "ncsoft",
-                    "repo": "FoCus",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Personalized Asssistant"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval",
-                  "description": "arXiv 2026 Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is the official repo of PhotoBench.",
-                    "homepage": null,
-                    "id": 1153164841,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-05-17T17:00:46Z",
-                    "open_issues": 5,
-                    "owner": "LaVieEnRose365",
-                    "repo": "PhotoBench",
-                    "stars": 18,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories",
-                  "description": "arXiv 2026 Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1156858760,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-05-02T06:53:34Z",
-                    "open_issues": 0,
-                    "owner": "RUC-NLPIR",
-                    "repo": "DeepImageSearch",
-                    "stars": 90,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Personalized Representation from Personalized Generation",
-                  "description": "ICLR 2025 Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Personalized Representation from Personalized Generation (ICLR 2025)",
-                    "homepage": "https://personalized-rep.github.io",
-                    "id": 905407853,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-05-18T13:52:05Z",
-                    "open_issues": 1,
-                    "owner": "ssundaram21",
-                    "repo": "personalized-rep",
-                    "stars": 66,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "“This is my unicorn, Fluffy”: Personalizing frozen vision-language representations",
-                  "description": "ECCV 2024 Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 476236646,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2022-07-31T19:55:59Z",
-                    "open_issues": 2,
-                    "owner": "NVlabs",
-                    "repo": "PALAVRA",
-                    "stars": 54,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T20:48:52.379Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Personalized Representation Learning / Personalized Image Retrieval"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Papers"
+          "title": "Computer, Mobile, and Tool-Use Agents"
+        }
+      ],
+      "title": "🤖 Personal AI Agents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OmniMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+          "description": "arXiv 2026 Lifelong memory Image, text Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+            "homepage": null,
+            "id": 1126449798,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-24T07:40:38Z",
+            "open_issues": 9,
+            "owner": "aiming-lab",
+            "repo": "SimpleMem",
+            "stars": 3821,
+            "topics": [
+              "agent",
+              "audio",
+              "compression",
+              "knowledge-graph",
+              "lifelong-memory",
+              "llm",
+              "mcp",
+              "memory",
+              "multimodal",
+              "python",
+              "rag",
+              "retrieval",
+              "semantic-search",
+              "simplemem",
+              "video",
+              "vision"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "According to Me: Long-Term Personalized Referential Memory QA",
+          "description": "arXiv 2026 Referential memory Image, text Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ATM-Bench: A benchmark for long-term personalized memory QA spanning ~4 years of multimodal data (images, videos, emails). Features referential queries, evidence-grounded answering, and multi-source reasoning. Paper: \"According to Me: Long-Term Personalized Referential Memory QA\"",
+            "homepage": null,
+            "id": 1170286075,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-13T13:14:05Z",
+            "open_issues": 1,
+            "owner": "JingbiaoMei",
+            "repo": "ATM-Bench",
+            "stars": 68,
+            "topics": [
+              "agentic-memory",
+              "ai-agent",
+              "ai-agents",
+              "benchmark",
+              "long-term-memory",
+              "memory",
+              "memory-agent",
+              "memory-management",
+              "personal-ai",
+              "personal-ai-assistant",
+              "personal-assistant",
+              "personalized-ai",
+              "question-answering",
+              "rag",
+              "retrieval-augmented-generation"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        }
+      ],
+      "title": "🧠 Memory & User Modeling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LaMP: When Large Language Models Meet Personalization",
+              "description": "ACL 2024 Retrieval, personalization Text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Codes for papers on Large Language Models Personalization (LaMP)",
+                "homepage": "https://lamp-benchmark.github.io/",
+                "id": 631068922,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-18T20:31:57Z",
+                "open_issues": 11,
+                "owner": "LaMP-Benchmark",
+                "repo": "LaMP",
+                "stars": 209,
+                "topics": [
+                  "deep-learning",
+                  "information-retrieval",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge",
+              "description": "AAAI 2022 Persona and knowledge grounding Text Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge",
+                "homepage": null,
+                "id": 457267962,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2022-03-22T06:00:14Z",
+                "open_issues": 0,
+                "owner": "ncsoft",
+                "repo": "FoCus",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
+              "description": "CVPR 2026 Long-term personalization Image, text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026 Highlight] PersonaVLM: Long-Term Personalized Multimodal LLMs",
+                "homepage": "https://clare-nie.github.io/Awesome-Personalization-in-MLLMs/",
+                "id": 1182304788,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-16T01:58:13Z",
+                "open_issues": 0,
+                "owner": "MiG-NJU",
+                "repo": "PersonaVLM",
+                "stars": 125,
+                "topics": [
+                  "agent",
+                  "large-language-model",
+                  "long-term",
+                  "memory",
+                  "mllm",
+                  "personalization",
+                  "personavlm",
+                  "qwen2-5"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PEARL: Personalized Streaming Video Understanding Model",
+              "description": "arXiv 2026 Streaming personalization Video, text Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for PEARL: Personalized Streaming Video Understanding Model",
+                "homepage": null,
+                "id": 1182350937,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-24T13:05:18Z",
+                "open_issues": 0,
+                "owner": "Yuanhong-Zheng",
+                "repo": "PEARL",
+                "stars": 56,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Contextualized Visual Personalization in Vision-Language Models",
+              "description": "ICML 2026 Contextual personalization Image, text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] We introduce CoViP, a unified framework for contextualized visual personalization in VLMs, featuring a novel personalized image captioning benchmark, an RL-based post-training scheme, and diagnostic downstream personalization tasks.",
+                "homepage": null,
+                "id": 1143935491,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-09-11T01:34:01Z",
+                "open_issues": 1,
+                "owner": "oyt9306",
+                "repo": "CoViP",
+                "stars": 10,
+                "topics": [
+                  "multimodal-learning",
+                  "personalization",
+                  "post-training",
+                  "reinforcement-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models",
+              "description": "NeurIPS 2025 Reinforced post-training Image, text Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] We propose a first RL-based personalized image captioning framework with well-defined verifiable rewards.",
+                "homepage": null,
+                "id": 1006802430,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-01T06:31:31Z",
+                "open_issues": 0,
+                "owner": "oyt9306",
+                "repo": "RePIC",
+                "stars": 12,
+                "topics": [
+                  "image-captioning",
+                  "multi-concept",
+                  "multimodal-large-language-models",
+                  "personalization"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MC-LLaVA: Multi-Concept Personalized Vision-Language Model",
+              "description": "arXiv 2024 Multi-concept learning Image, text Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of MC-LLaVA.",
+                "homepage": null,
+                "id": 890218381,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-17T11:46:19Z",
+                "open_issues": 1,
+                "owner": "arctanxarc",
+                "repo": "MC-LLaVA",
+                "stars": 141,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Retrieval-Augmented Personalization for Multimodal Large Language Models",
+              "description": "CVPR 2025 Retrieval augmentation Image, text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2025] RAP: Retrieval-Augmented Personalization",
+                "homepage": "https://hoar012.github.io/RAP-Project/",
+                "id": 816655889,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-08T03:58:55Z",
+                "open_issues": 1,
+                "owner": "Hoar012",
+                "repo": "RAP-MLLM",
+                "stars": 86,
+                "topics": [
+                  "chatbot",
+                  "multimodal-large-language-models",
+                  "multimodal-learning",
+                  "personalization",
+                  "retrieval-augmented-generation"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MyVLM: Personalizing VLMs for User-Specific Queries",
+              "description": "ECCV 2024 Concept heads Image, text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation for \"MyVLM: Personalizing VLMs for User-Specific Queries\" (ECCV 2024)",
+                "homepage": "https://snap-research.github.io/MyVLM/",
+                "id": 775148130,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2024-07-05T08:06:09Z",
+                "open_issues": 6,
+                "owner": "snap-research",
+                "repo": "MyVLM",
+                "stars": 188,
+                "topics": [
+                  "personalization",
+                  "vision-language-models"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yo'LLaVA: Your Personalized Language and Vision Assistant",
+              "description": "NeurIPS 2024 Concept tokens Image, text Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🌋👵🏻 Yo'LLaVA: Your Personalized Language and Vision Assistant (NeurIPS 2024)",
+                "homepage": "https://thaoshibe.github.io/YoLLaVA/",
+                "id": 814808506,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-26T19:43:26Z",
+                "open_issues": 5,
+                "owner": "WisconsinAIVision",
+                "repo": "YoLLaVA",
+                "stars": 125,
+                "topics": [
+                  "llava",
+                  "llm",
+                  "llms",
+                  "lmm",
+                  "lmms",
+                  "multi-modal-models",
+                  "neurips",
+                  "neurips2024",
+                  "personalization",
+                  "personalized"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vision-Language and Multimodal Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant",
+              "description": "KDD 2025 State-aware, training-free Image, text Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[KDD 2026] TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant",
+                "homepage": null,
+                "id": 1122684593,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-30T15:12:03Z",
+                "open_issues": 0,
+                "owner": "ronpay",
+                "repo": "TAME",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unified Understanding and Generation"
+        }
+      ],
+      "title": "✨ Personalized Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval",
+          "description": "arXiv 2026 Intent-driven retrieval Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the official repo of PhotoBench.",
+            "homepage": null,
+            "id": 1153164841,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-05-17T17:00:46Z",
+            "open_issues": 5,
+            "owner": "LaVieEnRose365",
+            "repo": "PhotoBench",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories",
+          "description": "arXiv 2026 Context-aware retrieval Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1156858760,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-05-02T06:53:34Z",
+            "open_issues": 0,
+            "owner": "RUC-NLPIR",
+            "repo": "DeepImageSearch",
+            "stars": 90,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Personalized Representation from Personalized Generation",
+          "description": "ICLR 2025 Generative representation learning Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Personalized Representation from Personalized Generation (ICLR 2025)",
+            "homepage": "https://personalized-rep.github.io",
+            "id": 905407853,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-18T13:52:05Z",
+            "open_issues": 1,
+            "owner": "ssundaram21",
+            "repo": "personalized-rep",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "“This Is My Unicorn, Fluffy”: Personalizing Frozen Vision-Language Representations",
+          "description": "ECCV 2024 Personalized representations Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 476236646,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2022-07-31T19:55:59Z",
+            "open_issues": 2,
+            "owner": "NVlabs",
+            "repo": "PALAVRA",
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:52.379Z"
+        }
+      ],
+      "title": "🔎 Personal Retrieval & Representation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MyPCBench",
+              "description": "2026 Personally intelligent computer-use agents Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1242379387,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T18:46:02Z",
+                "open_issues": 3,
+                "owner": "ljang0",
+                "repo": "MyPCBench",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iOSWorld",
+              "description": "2026 Personally intelligent phone agents Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1263251973,
+                "language": "Swift",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-30T04:42:40Z",
+                "open_issues": 1,
+                "owner": "ljang0",
+                "repo": "iOSWorld",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemoryAgentBench",
+              "description": "2026 Incremental multi-turn agent memory Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source code for ICLR 2026 Paper: Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+                "homepage": "https://arxiv.org/abs/2507.05257",
+                "id": 1009976354,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-25T06:11:34Z",
+                "open_issues": 7,
+                "owner": "HUST-AI-HYZ",
+                "repo": "MemoryAgentBench",
+                "stars": 462,
+                "topics": [
+                  "agent",
+                  "llm",
+                  "memory",
+                  "memory-agent"
+                ]
+              },
+              "first_seen": "2026-10-06T10:17:03.473Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LaMP",
+              "description": "2024 Personalized language modeling Page · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Codes for papers on Large Language Models Personalization (LaMP)",
+                "homepage": "https://lamp-benchmark.github.io/",
+                "id": 631068922,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-18T20:31:57Z",
+                "open_issues": 11,
+                "owner": "LaMP-Benchmark",
+                "repo": "LaMP",
+                "stars": 209,
+                "topics": [
+                  "deep-learning",
+                  "information-retrieval",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
+              },
+              "first_seen": "2026-08-28T20:48:52.379Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent, Memory, and Conversation Benchmarks"
         },
         {
           "children": [
             {
               "node_type": "item",
               "title": "ConCon-Chi",
-              "description": "2024 20 GitHub with ConCon-Chi",
+              "description": "2024 20 Data Personalized visual concepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -688,7 +846,7 @@
             {
               "node_type": "item",
               "title": "PODS",
-              "description": "2024 100 GitHub with personalized-rep",
+              "description": "2024 100 Data Released with Personalized Representation from Personalized Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,7 +867,7 @@
             {
               "node_type": "item",
               "title": "MC-LLaVA",
-              "description": "2024 -- GitHub with MC-LLaVA, multiple concepts",
+              "description": "2024 Multiple Data Multi-concept personalization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -730,7 +888,7 @@
             {
               "node_type": "item",
               "title": "Yo'LLaVA",
-              "description": "2024 40 GitHub with Yo'LLaVA, single concept",
+              "description": "2024 40 Data Single-concept personalization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +920,7 @@
             {
               "node_type": "item",
               "title": "MyVLM",
-              "description": "2024 29 GitHub with MyVLM, single concept",
+              "description": "2024 29 Data Single-concept personalization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,16 +942,137 @@
               "first_seen": "2026-08-28T20:48:52.379Z"
             }
           ],
-          "description": "⣶⣶⣶⣶⣶⣖⣒⡄⠀⣶⡖⠲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⠠⡄⠀⠀⠀⠀ ⠙⠛⣿⣿⣿⡟⠛⠃⢀⣿⣿⣆⣦⣴⠂⠤⠀⠀⠀⣠⣤⣴⣆⠠⢄⠀⠀⠀⣤⡤⢤⣤⣤⠤⢄⠀⠀⢻⣿⣦⡇⢀⣤⢤⠀ ⠀⢀⣿⣿⣿⡇⠀⠀⢸⣿⣿⣿⠛⣿⣷⣄⡇⠀⣼⣿⣿⡟⢿⣷⡄⣣⠀⢘⣿⣿⣿⠿⣿⣧⣈⡆⠀⢹⣿⣿⣷⣾⣧⣴⠀ ⠀⢰⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⠙⠛⣻⣧⣾⣿⣿⡷⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⡇⠀ ⠀⢸⣿⣿⣿⠀⠀⠀⢸⣿⣿⡿⠀⣿⣿⣿⠃⠀⣰⣾⣿⡿⣿⣿⣿⣟⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⡏⢇⠀ ⠀⣼⣿⣿⣿⠀⠀⠀⣸⣿⣿⣟⢠⣿⣿⣿⠀⠀⣿⣿⡟⣇⣾⣿⣿⣯⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⢼⣿⣿⣿⣿⣷⡈⡀ ⠀⠻⠿⠿⠟⠀⠀⠀⠻⠿⠿⠏⠸⣿⣿⣿⠀⠀⢿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⠀⣿⣿⣿⡇⠀⣿⣿⣿⡟⢻⣿⣧⣇ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠉⠉⠀⠀⠀⠉⠉⠁⠀⠉⠉⠉⠀⠀⠘⠙⠋⠁⠈⠋⠛⠉ ⠀⠀⠀⠀⠀⠀⢀⣠⣤⡀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡤⠠⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢹⣿⣄⠱⣠⣿⣧⣴⠀⠀⣠⣤⣤⣀⣀⡀⠀⠀⢀⣤⠤⡀⢀⣠⡤⢄⠀⠈⣿⣿⣦⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣿⣿⣿⡏⠀⣾⣿⣿⣿⣶⣄⡉⡄⠀⣿⣿⣤⣝⢸⣿⣦⣼⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⠏⠀⠐⣿⣿⣿⠉⣿⣿⣷⡇⠀⣽⣿⣿⣯⢸⣿⣿⣿⠀⠀⢹⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⢠⣿⣿⣿⠀⣿⣿⣿⡇⠀⣻⣿⣿⡷⢸⣿⣿⣿⠀⠀⢸⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⢿⣿⣿⣄⣿⣿⣿⠇⠀⢹⣿⣿⣿⣸⣿⣿⣿⠀⠀⢠⣽⣧⡄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠀⠀⠀⠈⠛⠛⠛⠛⠛⠉⠀⠀⠈⠛⠛⠛⠋⠛⠛⠋⠀⠀⠈⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀\nAnd good luck with your research! 🤗✨",
+          "description": null,
           "node_type": "group",
-          "title": "Datasets"
+          "title": "Multimodal Personalization Datasets"
         }
       ],
-      "title": "🌱 Contributing"
+      "title": "🧪 Benchmarks & Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Agent Memory",
+          "description": "systems, benchmarks, and research for agent memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+            "homepage": null,
+            "id": 1086124473,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-05T15:09:33Z",
+            "open_issues": 1,
+            "owner": "TeleAI-UAGI",
+            "repo": "Awesome-Agent-Memory",
+            "stars": 658,
+            "topics": [
+              "agent-memory",
+              "ai-agent",
+              "ai-agent-memory",
+              "awesome",
+              "awesome-agent-memory",
+              "awesome-list",
+              "continual-learning",
+              "llm",
+              "llm-memory",
+              "long-term-memory",
+              "memory",
+              "memory-management",
+              "multimodal-llm-memory",
+              "rag"
+            ]
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Personalized LLM",
+          "description": "personalized language models, chat, and role-playing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc. ",
+            "homepage": null,
+            "id": 705625763,
+            "language": null,
+            "license": null,
+            "last_commit": "2024-09-23T06:23:13Z",
+            "open_issues": 3,
+            "owner": "AiHubCN",
+            "repo": "Awesome-Personalized-LLM",
+            "stars": 148,
+            "topics": [
+              "awesome-list",
+              "llm",
+              "nlp",
+              "role-playing"
+            ]
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Personalized Alignment",
+          "description": "personalized preferences and alignment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of personalized alignment resources (continually updated).",
+            "homepage": null,
+            "id": 875533817,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-10-03T10:53:52Z",
+            "open_issues": 1,
+            "owner": "liyongqi2002",
+            "repo": "Awesome-Personalized-Alignment",
+            "stars": 80,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Personalization in MLLMs",
+          "description": "personalization in multimodal large language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Awesome papers on personalization in LLMs/MLLMs: memory, alignment, retrieval, and evaluation.",
+            "homepage": "https://clare-nie.github.io/Awesome-Personalization-in-MLLMs/",
+            "id": 1259934942,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-13T03:37:48Z",
+            "open_issues": 2,
+            "owner": "Clare-Nie",
+            "repo": "Awesome-Personalization-in-MLLMs",
+            "stars": 20,
+            "topics": [
+              "agent",
+              "alignment",
+              "awesome-list",
+              "benchamrk",
+              "evaluation",
+              "memory",
+              "mllms",
+              "personalization",
+              "personalized-llm",
+              "retrieval"
+            ]
+          },
+          "first_seen": "2026-10-06T10:17:03.473Z"
+        }
+      ],
+      "title": "🌟 Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:18:32.443Z",
+    "last_updated": "2026-10-06T10:17:03.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
@@ -801,7 +1080,7 @@
       "id": 874883768,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-10T14:44:56Z",
+      "last_commit": "2026-10-05T19:34:10Z",
       "open_issues": 0,
       "owner": "thaoshibe",
       "repo": "awesome-personalized-lmms",
@@ -817,9 +1096,9 @@
         "personalized-generation"
       ]
     },
-    "original_repository_sha": "fa5214aba7658ddbebada4acfa79161b6195e875",
+    "original_repository_sha": "2b84b58af80076e9a4054c13b0e796b6a7bf2a92",
     "enhanced_repository": "enhansome/enhansome-personalized-lmms",
     "enhanced_repository_description": null,
-    "title": "Awesome Personalized Personal Assistant Models with stars"
+    "title": "Awesome Personal AI with stars"
   }
 }
