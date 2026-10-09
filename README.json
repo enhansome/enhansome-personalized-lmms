@@ -15,11 +15,11 @@
             "id": 656099147,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T14:22:26Z",
-            "open_issues": 802,
+            "last_commit": "2026-10-09T06:17:43Z",
+            "open_issues": 811,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 66824,
+            "stars": 66893,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -51,11 +51,11 @@
             "id": 840056306,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T19:12:47Z",
-            "open_issues": 461,
+            "last_commit": "2026-10-09T15:39:44Z",
+            "open_issues": 465,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 31558,
+            "stars": 31589,
             "topics": [
               "agents",
               "graph",
@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25076,
+            "stars": 25089,
             "topics": [
               "ai",
               "ai-agents",
@@ -107,7 +107,7 @@
             "open_issues": 74,
             "owner": "langchain-ai",
             "repo": "langmem",
-            "stars": 1697,
+            "stars": 1700,
             "topics": []
           },
           "first_seen": "2026-10-06T10:17:03.473Z"
@@ -124,11 +124,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T15:26:26Z",
-            "open_issues": 822,
+            "last_commit": "2026-10-09T15:45:18Z",
+            "open_issues": 809,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 48868,
+            "stars": 48904,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -166,11 +166,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T16:20:26Z",
-            "open_issues": 9560,
+            "last_commit": "2026-10-09T16:05:23Z",
+            "open_issues": 9372,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 391626,
+            "stars": 391541,
             "topics": [
               "ai",
               "assistant",
@@ -298,7 +298,7 @@
             "open_issues": 1,
             "owner": "JingbiaoMei",
             "repo": "ATM-Bench",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "agentic-memory",
               "ai-agent",
@@ -343,7 +343,7 @@
                 "open_issues": 11,
                 "owner": "LaMP-Benchmark",
                 "repo": "LaMP",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -804,7 +804,7 @@
                 "open_issues": 11,
                 "owner": "LaMP-Benchmark",
                 "repo": "LaMP",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -965,10 +965,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T00:48:41Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
-            "stars": 663,
+            "stars": 668,
             "topics": [
               "agent-memory",
               "ai-agent",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:22:15.101Z",
+    "last_updated": "2026-10-09T16:05:31.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
