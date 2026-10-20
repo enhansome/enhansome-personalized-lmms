@@ -15,11 +15,11 @@
             "id": 656099147,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T21:06:52Z",
-            "open_issues": 851,
+            "last_commit": "2026-10-20T01:47:59Z",
+            "open_issues": 856,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 67454,
+            "stars": 67517,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -51,11 +51,11 @@
             "id": 840056306,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T16:23:23Z",
-            "open_issues": 491,
+            "last_commit": "2026-10-20T05:55:03Z",
+            "open_issues": 488,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 32037,
+            "stars": 32078,
             "topics": [
               "agents",
               "graph",
@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25191,
+            "stars": 25201,
             "topics": [
               "ai",
               "ai-agents",
@@ -107,7 +107,7 @@
             "open_issues": 76,
             "owner": "langchain-ai",
             "repo": "langmem",
-            "stars": 1712,
+            "stars": 1715,
             "topics": []
           },
           "first_seen": "2026-10-06T10:17:03.473Z"
@@ -124,11 +124,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:14:04Z",
-            "open_issues": 846,
+            "last_commit": "2026-10-20T14:12:43Z",
+            "open_issues": 859,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 49188,
+            "stars": 49214,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -166,11 +166,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:23:52Z",
-            "open_issues": 9507,
+            "last_commit": "2026-10-20T14:14:40Z",
+            "open_issues": 9658,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 392455,
+            "stars": 392963,
             "topics": [
               "ai",
               "assistant",
@@ -207,7 +207,7 @@
                 "open_issues": 3,
                 "owner": "ljang0",
                 "repo": "MyPCBench",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:48:52.379Z"
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-24T07:40:38Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "aiming-lab",
             "repo": "SimpleMem",
-            "stars": 3839,
+            "stars": 3841,
             "topics": [
               "agent",
               "audio",
@@ -736,7 +736,7 @@
                 "open_issues": 3,
                 "owner": "ljang0",
                 "repo": "MyPCBench",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:48:52.379Z"
@@ -778,7 +778,7 @@
                 "open_issues": 7,
                 "owner": "HUST-AI-HYZ",
                 "repo": "MemoryAgentBench",
-                "stars": 475,
+                "stars": 477,
                 "topics": [
                   "agent",
                   "llm",
@@ -964,7 +964,7 @@
             "id": 1086124473,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T13:48:33Z",
+            "last_commit": "2026-10-20T14:08:08Z",
             "open_issues": 0,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:24:26.216Z",
+    "last_updated": "2026-10-20T14:15:00.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
