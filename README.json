@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T14:51:55Z",
-            "open_issues": 876,
+            "open_issues": 885,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 67849,
+            "stars": 67914,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -51,11 +51,11 @@
             "id": 840056306,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T15:38:13Z",
-            "open_issues": 519,
+            "last_commit": "2026-10-26T23:29:54Z",
+            "open_issues": 522,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 32242,
+            "stars": 32269,
             "topics": [
               "agents",
               "graph",
@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25262,
+            "stars": 25266,
             "topics": [
               "ai",
               "ai-agents",
@@ -107,7 +107,7 @@
             "open_issues": 78,
             "owner": "langchain-ai",
             "repo": "langmem",
-            "stars": 1722,
+            "stars": 1726,
             "topics": []
           },
           "first_seen": "2026-10-06T10:17:03.473Z"
@@ -124,11 +124,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T15:46:49Z",
-            "open_issues": 870,
+            "last_commit": "2026-10-27T15:05:34Z",
+            "open_issues": 874,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 49366,
+            "stars": 49485,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -166,11 +166,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:04:54Z",
-            "open_issues": 7920,
+            "last_commit": "2026-10-27T15:16:58Z",
+            "open_issues": 7774,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 393130,
+            "stars": 393199,
             "topics": [
               "ai",
               "assistant",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-24T07:40:38Z",
-            "open_issues": 18,
+            "open_issues": 14,
             "owner": "aiming-lab",
             "repo": "SimpleMem",
-            "stars": 3850,
+            "stars": 3852,
             "topics": [
               "agent",
               "audio",
@@ -398,7 +398,7 @@
                 "open_issues": 0,
                 "owner": "MiG-NJU",
                 "repo": "PersonaVLM",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "agent",
                   "large-language-model",
@@ -549,7 +549,7 @@
                 "open_issues": 6,
                 "owner": "snap-research",
                 "repo": "MyVLM",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "personalization",
                   "vision-language-models"
@@ -573,7 +573,7 @@
                 "open_issues": 5,
                 "owner": "WisconsinAIVision",
                 "repo": "YoLLaVA",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "llava",
                   "llm",
@@ -778,7 +778,7 @@
                 "open_issues": 7,
                 "owner": "HUST-AI-HYZ",
                 "repo": "MemoryAgentBench",
-                "stars": 478,
+                "stars": 480,
                 "topics": [
                   "agent",
                   "llm",
@@ -901,7 +901,7 @@
                 "open_issues": 5,
                 "owner": "WisconsinAIVision",
                 "repo": "YoLLaVA",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "llava",
                   "llm",
@@ -933,7 +933,7 @@
                 "open_issues": 6,
                 "owner": "snap-research",
                 "repo": "MyVLM",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "personalization",
                   "vision-language-models"
@@ -968,7 +968,7 @@
             "open_issues": 3,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
-            "stars": 696,
+            "stars": 698,
             "topics": [
               "agent-memory",
               "ai-agent",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:05:15.142Z",
+    "last_updated": "2026-10-27T15:17:03.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
