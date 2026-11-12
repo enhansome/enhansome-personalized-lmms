@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:53:07Z",
-            "open_issues": 933,
+            "open_issues": 937,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 68815,
+            "stars": 68878,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -52,10 +52,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T01:25:29Z",
-            "open_issues": 560,
+            "open_issues": 557,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 32747,
+            "stars": 32777,
             "topics": [
               "agents",
               "graph",
@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25420,
+            "stars": 25426,
             "topics": [
               "ai",
               "ai-agents",
@@ -107,7 +107,7 @@
             "open_issues": 80,
             "owner": "langchain-ai",
             "repo": "langmem",
-            "stars": 1761,
+            "stars": 1764,
             "topics": []
           },
           "first_seen": "2026-10-06T10:17:03.473Z"
@@ -124,11 +124,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:08:31Z",
-            "open_issues": 871,
+            "last_commit": "2026-11-12T15:27:24Z",
+            "open_issues": 869,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 50015,
+            "stars": 50043,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -166,11 +166,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T16:57:30Z",
-            "open_issues": 8101,
+            "last_commit": "2026-11-12T17:29:03Z",
+            "open_issues": 8031,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 394345,
+            "stars": 394406,
             "topics": [
               "ai",
               "assistant",
@@ -260,7 +260,7 @@
             "open_issues": 13,
             "owner": "aiming-lab",
             "repo": "SimpleMem",
-            "stars": 3872,
+            "stars": 3875,
             "topics": [
               "agent",
               "audio",
@@ -522,7 +522,7 @@
                 "open_issues": 1,
                 "owner": "Hoar012",
                 "repo": "RAP-MLLM",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "chatbot",
                   "multimodal-large-language-models",
@@ -778,7 +778,7 @@
                 "open_issues": 6,
                 "owner": "HUST-AI-HYZ",
                 "repo": "MemoryAgentBench",
-                "stars": 486,
+                "stars": 487,
                 "topics": [
                   "agent",
                   "llm",
@@ -965,7 +965,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T22:40:54Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
             "stars": 712,
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:02:08.588Z",
+    "last_updated": "2026-11-12T17:30:29.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
