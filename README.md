@@ -47,12 +47,12 @@ Products, open-source frameworks, developer tools, and industry updates for buil
 | ChatGPT Pulse                | Product feature     | OpenAI       | Proactive, personalized daily updates based on memory, feedback, and connected apps.                | [Announcement](https://openai.com/index/introducing-chatgpt-pulse/)                                                                                                                                                     |
 | Gemini Personal Intelligence | Product             | Google       | Connects Gemini with personal context from Google apps.                                             | [Blog](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)                                                                                                                                |
 | ChatGPT Memory               | Product             | OpenAI       | Uses saved memories and conversation history to personalize responses.                              | [Blog](https://openai.com/index/memory-and-new-controls-for-chatgpt/)                                                                                                                                                   |
-| mem0                         | Framework           | mem0         | Universal memory layer for AI agents.                                                               | [Code](https://github.com/mem0ai/mem0) ⭐ 69,507 \| 🐛 1,016 \| 🌐 Python \| 📅 2026-11-25 · [Stars](https://github.com/mem0ai/mem0/stargazers) ⭐ 69,507 \| 🐛 1,016 \| 🌐 Python \| 📅 2026-11-25                       |
-| Graphiti                     | Framework           | Zep          | Real-time temporal knowledge graphs for agent memory.                                               | [Code](https://github.com/getzep/graphiti) ⭐ 33,115 \| 🐛 586 \| 🌐 Python \| 📅 2026-11-26 · [Stars](https://github.com/getzep/graphiti/stargazers) ⭐ 33,115 \| 🐛 586 \| 🌐 Python \| 📅 2026-11-26                   |
-| Letta                        | Framework           | Letta        | Stateful agents with persistent memory that can learn over time.                                    | [Code](https://github.com/letta-ai/letta) ⭐ 25,561 \| 🐛 1 \| 📅 2026-10-18 · [Docs](https://docs.letta.com/)                                                                                                           |
+| mem0                         | Framework           | mem0         | Universal memory layer for AI agents.                                                               | [Code](https://github.com/mem0ai/mem0) ⭐ 69,547 \| 🐛 1,023 \| 🌐 Python \| 📅 2026-11-27 · [Stars](https://github.com/mem0ai/mem0/stargazers) ⭐ 69,547 \| 🐛 1,023 \| 🌐 Python \| 📅 2026-11-27                       |
+| Graphiti                     | Framework           | Zep          | Real-time temporal knowledge graphs for agent memory.                                               | [Code](https://github.com/getzep/graphiti) ⭐ 33,144 \| 🐛 586 \| 🌐 Python \| 📅 2026-11-27 · [Stars](https://github.com/getzep/graphiti/stargazers) ⭐ 33,144 \| 🐛 586 \| 🌐 Python \| 📅 2026-11-27                   |
+| Letta                        | Framework           | Letta        | Stateful agents with persistent memory that can learn over time.                                    | [Code](https://github.com/letta-ai/letta) ⭐ 25,568 \| 🐛 1 \| 📅 2026-10-18 · [Docs](https://docs.letta.com/)                                                                                                           |
 | LangMem                      | Developer tool      | LangChain    | Tools for extracting, managing, and updating long-term agent memories.                              | [Code](https://github.com/langchain-ai/langmem) ⭐ 1,793 \| 🐛 85 \| 🌐 Python \| 📅 2026-11-16                                                                                                                          |
-| nanobot                      | Open-source product | HKUDS        | Ultra-lightweight personal AI assistant.                                                            | [Code](https://github.com/HKUDS/nanobot) ⭐ 50,364 \| 🐛 867 \| 🌐 Python \| 📅 2026-11-26 · [Stars](https://github.com/HKUDS/nanobot/stargazers) ⭐ 50,364 \| 🐛 867 \| 🌐 Python \| 📅 2026-11-26                       |
-| OpenClaw                     | Open-source product | OpenClaw     | Personal AI assistant for different operating systems and platforms.                                | [Code](https://github.com/openclaw/openclaw) ⭐ 395,287 \| 🐛 9,241 \| 🌐 TypeScript \| 📅 2026-11-26 · [Stars](https://github.com/openclaw/openclaw/stargazers) ⭐ 395,287 \| 🐛 9,241 \| 🌐 TypeScript \| 📅 2026-11-26 |
+| nanobot                      | Open-source product | HKUDS        | Ultra-lightweight personal AI assistant.                                                            | [Code](https://github.com/HKUDS/nanobot) ⭐ 50,398 \| 🐛 862 \| 🌐 Python \| 📅 2026-11-27 · [Stars](https://github.com/HKUDS/nanobot/stargazers) ⭐ 50,398 \| 🐛 862 \| 🌐 Python \| 📅 2026-11-27                       |
+| OpenClaw                     | Open-source product | OpenClaw     | Personal AI assistant for different operating systems and platforms.                                | [Code](https://github.com/openclaw/openclaw) ⭐ 395,348 \| 🐛 9,341 \| 🌐 TypeScript \| 📅 2026-11-27 · [Stars](https://github.com/openclaw/openclaw/stargazers) ⭐ 395,348 \| 🐛 9,341 \| 🌐 TypeScript \| 📅 2026-11-27 |
 
 ***
 
@@ -183,7 +183,7 @@ Products, open-source frameworks, developer tools, and industry updates for buil
 | :--------------- | :--: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------- |
 | MyPCBench        | 2026 | Personally intelligent computer-use agents  | [Page](https://mypcbench.com/) · [Code](https://github.com/ljang0/MyPCBench) ⭐ 10 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-30                 |
 | iOSWorld         | 2026 | Personally intelligent phone agents         | [Page](https://iosworld.io/) · [Code](https://github.com/ljang0/iosworld) ⭐ 22 \| 🐛 1 \| 🌐 Swift \| 📅 2026-09-30                     |
-| MemoryAgentBench | 2026 | Incremental multi-turn agent memory         | [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) ⭐ 491 \| 🐛 6 \| 🌐 Python \| 📅 2026-09-25                                     |
+| MemoryAgentBench | 2026 | Incremental multi-turn agent memory         | [Code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) ⭐ 491 \| 🐛 7 \| 🌐 Python \| 📅 2026-09-25                                     |
 | PersonaFeedback  | 2025 | Human-annotated personalization preferences | [Paper](https://arxiv.org/abs/2506.12915)                                                                                               |
 | LongMemEval      | 2024 | Long-term interactive memory                | [Paper](https://arxiv.org/abs/2410.10813)                                                                                               |
 | LoCoMo           | 2024 | Very long-term conversational memory        | [Paper](https://aclanthology.org/2024.acl-long.747/)                                                                                    |
@@ -203,9 +203,9 @@ Products, open-source frameworks, developer tools, and industry updates for buil
 
 ## 🌟 Related Awesome Lists
 
-* [Awesome Agent Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 739 | 🐛 5 | 🌐 Python | 📅 2026-11-25 — systems, benchmarks, and research for agent memory.
+* [Awesome Agent Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 739 | 🐛 7 | 🌐 Python | 📅 2026-11-25 — systems, benchmarks, and research for agent memory.
 * [Awesome Personalized LLM](https://github.com/HqWu-HITCS/Awesome-Personalized-LLM) ⭐ 148 | 🐛 3 | 📅 2024-09-23 — personalized language models, chat, and role-playing.
-* [Awesome Personalized Alignment](https://github.com/liyongqi2002/Awesome-Personalized-Alignment) ⭐ 80 | 🐛 0 | 📅 2026-11-25 — personalized preferences and alignment.
+* [Awesome Personalized Alignment](https://github.com/liyongqi2002/Awesome-Personalized-Alignment) ⭐ 81 | 🐛 0 | 📅 2026-11-25 — personalized preferences and alignment.
 * [Awesome Personalization in MLLMs](https://github.com/Clare-Nie/Awesome-Personalization-in-MLLMs) ⭐ 22 | 🐛 2 | 📅 2026-06-13 — personalization in multimodal large language models.
 
 ***
@@ -249,4 +249,4 @@ If there is anything incorrect or missing, please feel free to correct me. Thank
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
