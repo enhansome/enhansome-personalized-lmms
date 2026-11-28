@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-27T15:43:44Z",
-            "open_issues": 1023,
+            "open_issues": 1025,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 69547,
+            "stars": 69585,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -55,7 +55,7 @@
             "open_issues": 586,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 33144,
+            "stars": 33169,
             "topics": [
               "agents",
               "graph",
@@ -81,7 +81,7 @@
             "open_issues": 1,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25568,
+            "stars": 25573,
             "topics": [
               "ai",
               "ai-agents",
@@ -124,11 +124,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-27T17:20:56Z",
-            "open_issues": 862,
+            "last_commit": "2026-11-28T17:00:23Z",
+            "open_issues": 863,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 50398,
+            "stars": 50410,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -166,11 +166,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T18:49:50Z",
-            "open_issues": 9341,
+            "last_commit": "2026-11-28T17:27:52Z",
+            "open_issues": 9419,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 395348,
+            "stars": 395370,
             "topics": [
               "ai",
               "assistant",
@@ -260,7 +260,7 @@
             "open_issues": 11,
             "owner": "aiming-lab",
             "repo": "SimpleMem",
-            "stars": 3882,
+            "stars": 3883,
             "topics": [
               "agent",
               "audio",
@@ -343,7 +343,7 @@
                 "open_issues": 11,
                 "owner": "LaMP-Benchmark",
                 "repo": "LaMP",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -573,7 +573,7 @@
                 "open_issues": 5,
                 "owner": "WisconsinAIVision",
                 "repo": "YoLLaVA",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "llava",
                   "llm",
@@ -804,7 +804,7 @@
                 "open_issues": 11,
                 "owner": "LaMP-Benchmark",
                 "repo": "LaMP",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -901,7 +901,7 @@
                 "open_issues": 5,
                 "owner": "WisconsinAIVision",
                 "repo": "YoLLaVA",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "llava",
                   "llm",
@@ -965,10 +965,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T10:35:37Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
-            "stars": 739,
+            "stars": 741,
             "topics": [
               "agent-memory",
               "ai-agent",
@@ -1042,15 +1042,15 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Awesome papers on personalization in LLMs/MLLMs: memory, alignment, retrieval, and evaluation.",
-            "homepage": "https://clare-nie.github.io/Awesome-Personalization-in-MLLMs/",
+            "description": "Curated paper index for Memory for Continual and Experiential Intelligence — compressing historical context for faster, better execution of future tasks.",
+            "homepage": "https://clare-nie.github.io/Memory-for-Continual-and-Experiential-Intelligence/",
             "id": 1259934942,
             "language": null,
             "license": null,
-            "last_commit": "2026-06-13T03:37:48Z",
+            "last_commit": "2026-11-28T16:17:40Z",
             "open_issues": 2,
             "owner": "Clare-Nie",
-            "repo": "Awesome-Personalization-in-MLLMs",
+            "repo": "Memory-for-Continual-and-Experiential-Intelligence",
             "stars": 22,
             "topics": [
               "agent",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:49:56.181Z",
+    "last_updated": "2026-11-28T17:28:24.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Personalized Large Multimodal Models resources",
